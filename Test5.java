@@ -3,6 +3,7 @@ public class Test5 {
         String name = "Hector";
         for (int i = name.length() - 1; i >= 0 - 1; i--) {
             System.out.println(name.charAt(i));
+            System.out.println("Hola Paparrin");
         }
 
     }
